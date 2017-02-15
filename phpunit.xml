@@ -7,4 +7,4 @@
             <file>tests/CurrencyTest.php</file>
         </testsuite>
     </testsuites>
-</phpunit>
+</phpunit> 
